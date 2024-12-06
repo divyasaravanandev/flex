@@ -1,0 +1,170 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+div ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+    list-style: none;
+    padding: 1rem;
+    border-style: solid;
+    border-radius: 8px;
+}
+
+.first {
+    background-color: navy;
+    color: white;
+    border-radius: 8px;
+    padding: 0.5rem;
+}
+
+.second {
+    background-color: navy;
+    color: white;
+    border-radius: 8px;
+    padding: 0.5rem;
+}
+
+.third {
+    background-color: navy;
+    color: white;
+    border-radius: 8px;
+    padding: 0.5rem;
+}
+
+.four {
+
+    background-color: navy;
+    color: white;
+    border-radius: 8px;
+    padding: 0.5rem;
+}
+
+.box1 {
+    background-color: navy;
+    color: white;
+    padding: 1rem;
+    border-radius: 8px;
+    
+}
+
+.box2 {
+    background-color: navy;
+    color: white;
+    padding: 1rem;
+    border-radius: 8px;
+}
+
+.box3 {
+    background-color: navy;
+    color: white;
+    padding: 1rem;
+    border-radius: 8px;
+}
+.parent{
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 1rem;
+    border-style: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;}
+    
+
+.child{
+    padding: 0.5rem;
+    background-color: blue;  
+}
+ul{
+    display: grid;
+}
+.list1{
+    background-color: navy;
+    color: white;  
+    border-radius: 8px;
+    padding: 1rem;  
+}
+.list2{
+    background-color: navy;
+    color: white; 
+    padding: 1rem;  
+    border-radius: 8px;   
+}
+.list3{
+    background-color: navy;
+    color: white; 
+    padding: 1rem;  
+    border-radius: 8px;   
+}
+.list4{
+    background-color: navy;
+    color: white;
+    padding: 1rem;   
+    border-radius: 8px;   
+}
+.list5{
+    background-color: navy;
+    color: white;
+    padding: 1rem;  
+    border-radius: 8px;    
+}
+.list6{
+    background-color: navy;
+    color: white; 
+    padding: 1rem;  
+    border-radius: 8px;   
+}
+.list7{
+    background-color: navy;
+    color: white;
+    padding: 1rem;  
+    border-radius: 8px;    
+}
+.list8{
+    background-color: navy;
+    color: white;
+    padding: 1rem;  
+    border-radius: 8px;    
+}
+.list9{
+    background-color: navy;
+    color: white;
+    padding: 1rem;  
+    border-radius: 8px;    
+}
+.list10{
+    background-color: navy;
+    color: white;
+    padding: 1rem;  
+    border-radius: 8px;  
+}
+ul{
+    display: flex;
+    
+}
+.box1,.box2,.box3{
+    width:33.33%;
+}
+/* .box2{
+    width:33.33%;
+}
+.box3{
+    width:33.33%;
+} */
+.bi{
+    color: green;
+    /* color: black; */
+   
+}
+
+

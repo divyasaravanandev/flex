@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    grid-template-columns: auto auto auto auto;
+}
+/* body{
+    list-style: none;
+} */
+div ul{
+   /* display:flex ; */
+   display: grid;
+   gap: 1rem;
+   /* justify-content: center; */
+   align-items: center;
+   list-style: none;
+   padding: 1rem;
+   margin: 1rem;
+   border-style: solid;
+   width: 30%;
+}
+.list1{
+    background-color: navy;
+    color: white;  
+    border-radius: 8px;
+    padding: 1rem;  
+}
+.list2{
+    background-color: navy;
+    color: white; 
+    padding: 1rem;  
+    border-radius: 8px;   
+}
+.list3{
+    background-color: navy;
+    color: white; 
+    padding: 1rem;  
+    border-radius: 8px;   
+}
+.list4{
+    background-color: navy;
+    color: white;
+    padding: 1rem;   
+    border-radius: 8px;   
+}
+.list5{
+    background-color: navy;
+    color: white;
+    padding: 1rem;  
+    border-radius: 8px;    
+}
+.list6{
+    background-color: navy;
+    color: white; 
+    padding: 1rem;  
+    border-radius: 8px;   
+}
+.list7{
+    background-color: navy;
+    color: white;
+    padding: 1rem;  
+    border-radius: 8px;    
+}
+.list8{
+    background-color: navy;
+    color: white;
+    padding: 1rem;  
+    border-radius: 8px;    
+}
+.list9{
+    background-color: navy;
+    color: white;
+    padding: 1rem;  
+    border-radius: 8px;    
+}
+.list10{
+    background-color: navy;
+    color: white;
+    padding: 1rem;  
+    border-radius: 8px;  
+}
+
+
+.bi{
+    color: violet;
+    padding: 1rem;
+    display: block;
+}
